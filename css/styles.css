@@ -1,15 +1,24 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
 .ancient-greek-remedies {
   background-image: url(/images/10034.jpg);
   background-size: cover;
   background-position: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  padding-left: 30px;
   background-attachment: fixed;
+  height: 80vh;
 }
 .inner-ancient-greek-remedies {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 75px;
+  padding-right: 20px;
+  padding-bottom: 75px;
+  padding-left: 20px;
 }
 .col-4 img {
   width: 100%;
