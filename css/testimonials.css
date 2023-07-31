@@ -1,0 +1,11 @@
+.customer--reviews {
+  background-image: url(/images/10035.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 40vh;
+}
+.test-one img {
+  width: 373px;
+  height: 400px;
+}
