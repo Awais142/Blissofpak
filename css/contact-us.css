@@ -5,3 +5,50 @@
   justify-content: center;
   align-items: center;
 }
+.contact-us h1 {
+  font-size: 70px;
+  font-family: "Poppins";
+}
+.contact-us h3 {
+  font-size: 34px;
+  font-family: "Poppins";
+}
+.form-section h2 {
+  font-size: 54px;
+  font-family: "Poppins";
+}
+@media screen and (max-width: 1440px) {
+}
+@media screen and (max-width: 1220px) {
+  .contact-us h1 {
+    font-size: 70px;
+  }
+  .contact-us h3 {
+    font-size: 34px;
+  }
+  .form-section h2 {
+    font-size: 54px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .contact-us h1 {
+    font-size: 60px;
+  }
+  .contact-us h3 {
+    font-size: 30px;
+  }
+  .form-section h2 {
+    font-size: 45px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .contact-us h1 {
+    font-size: 50px;
+  }
+  .contact-us h3 {
+    font-size: 24px;
+  }
+  .form-section h2 {
+    font-size: 45px;
+  }
+}
